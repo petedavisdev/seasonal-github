@@ -1,0 +1,239 @@
+body.jan {
+	& h1,
+	& h2,
+	& h3 {
+		color: cyan !important;
+	}
+
+	& h1::before {
+		content: '🥳 ';
+	}
+
+	& h2::before {
+		content: '⛄️ ';
+	}
+
+	& h3::before {
+		content: '🌨️ ';
+	}
+}
+
+body.feb {
+	& h1,
+	& h2,
+	& h3 {
+		color: deepskyblue !important;
+	}
+
+	& h1::before {
+		content: '💝 ';
+	}
+
+	& h2::before {
+		content: '🥶 ';
+	}
+
+	& h3::before {
+		content: '⛷️ ';
+	}
+}
+
+body.mar {
+	& h1,
+	& h2,
+	& h3 {
+		color: cornflowerblue !important;
+	}
+
+	& h1::before {
+		content: '🌱 ';
+	}
+
+	& h2::before {
+		content: '🐣 ';
+	}
+
+	& h3::before {
+		content: '🍫 ';
+	}
+}
+
+body.apr {
+	& h1,
+	& h2,
+	& h3 {
+		color: chartreuse !important;
+	}
+
+	& h1::before {
+		content: '🐰 ';
+	}
+
+	& h2::before {
+		content: '🌷 ';
+	}
+
+	& h3::before {
+		content: '🌸 ';
+	}
+}
+
+body.may {
+	& h1,
+	& h2,
+	& h3 {
+		color: hotpink !important;
+	}
+
+	& h1::before {
+		content: '🌳 ';
+	}
+
+	& h2::before {
+		content: '🌼 ';
+	}
+
+	& h3::before {
+		content: '🎊 ';
+	}
+}
+
+body.jun {
+	& h1,
+	& h2,
+	& h3 {
+		color: yellow !important;
+	}
+
+	& h1::before {
+		content: '🎾 ';
+	}
+
+	& h2::before {
+		content: '🍓 ';
+	}
+
+	& h3::before {
+		content: '🪷 ';
+	}
+}
+
+body.jul {
+	& h1,
+	& h2,
+	& h3 {
+		color: violet !important;
+	}
+
+	& h1::before {
+		content: '🥵 ';
+	}
+
+	& h2::before {
+		content: '🌞 ';
+	}
+
+	& h3::before {
+		content: '🍦 ';
+	}
+}
+
+body.aug {
+	& h1,
+	& h2,
+	& h3 {
+		color: skyblue !important;
+	}
+
+	& h1::before {
+		content: '🏝️ ';
+	}
+
+	& h2::before {
+		content: '🛫 ';
+	}
+
+	& h3::before {
+		content: '🛳️ ';
+	}
+}
+
+body.sep {
+	& h1,
+	& h2,
+	& h3 {
+		color: teal !important;
+	}
+
+	& h1::before {
+		content: '🍎 ';
+	}
+
+	& h2::before {
+		content: '📚 ';
+	}
+
+	& h3::before {
+		content: '🎓 ';
+	}
+}
+
+body.oct {
+	& h1,
+	& h2,
+	& h3 {
+		color: orange !important;
+	}
+
+	& h1::before {
+		content: '🎃 ';
+	}
+
+	& h2::before {
+		content: '👻 ';
+	}
+
+	& h3::before {
+		content: '😈 ';
+	}
+}
+
+body.nov {
+	& h1,
+	& h2,
+	& h3 {
+		color: pink !important;
+	}
+
+	& h1::before {
+		content: '🍂 ';
+	}
+
+	& h2::before {
+		content: '🔥 ';
+	}
+
+	& h3::before {
+		content: '🍃 ';
+	}
+}
+
+body.dec {
+	& h1,
+	& h2,
+	& h3 {
+		color: red !important;
+	}
+
+	& h1::before {
+		content: '🎄 ';
+	}
+
+	& h2::before {
+		content: '🎁 ';
+	}
+
+	& h3::before {
+		content: '🎅🏽 ';
+	}
+}
